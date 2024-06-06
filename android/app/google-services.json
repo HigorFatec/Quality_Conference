@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "102757205218",
+    "project_id": "avariasrota",
+    "storage_bucket": "avariasrota.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102757205218:android:872dd54195547b86d2cabb",
+        "android_client_info": {
+          "package_name": "com.example.meuapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3FFvfQ4pslXaIv7MqCpv2yQrizPc0SYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

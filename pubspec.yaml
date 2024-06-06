@@ -1,0 +1,31 @@
+name: meuapp2
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.1.5 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  camera_camera: ^3.0.0
+  image_picker: ^1.0.7
+  get: 
+  firebase_core: ^2.24.2
+  firebase_storage: ^11.6.0
+  cloud_firestore: ^4.14.0
+  intl: ^0.19.0
+  firebase_auth: ^4.16.0
+  
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  
+  assets:
+    - lib/images/
